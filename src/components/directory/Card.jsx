@@ -47,7 +47,7 @@ const Card = (props) => {
               </div>
             </div>
           </div>
-          <div className="w-full flex fle-row justify-between">
+          <div className="w-full flex fle-row justify-between border-t-2 mt-4 border-gray-150">
             <div className="flex flex-row">
               <img src={incFb} alt="" srcset="" />
               <div className="flex flex-col ml-4">
