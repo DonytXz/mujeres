@@ -1,14 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './assets/styles/main.css'
+import React from "react";
+import ReactDOM from "react-dom";
+import "./assets/styles/main.css";
 // import './assets/styles/style.css'
-import App from './app/App';
+import App from "./app/app";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React>
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </React>,
+  document.getElementById("root")
 );
 
 // If you want to start measuring performance in your app, pass a function
