@@ -1,3 +1,4 @@
+import React from "react";
 import { Logo, Navigation } from "./";
 import Form from "../assets/img/form.svg";
 import Form2 from "../assets/img/form2.svg";
