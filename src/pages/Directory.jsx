@@ -5,10 +5,12 @@ import { Pagination, Header } from "../components";
 const Directory = () => {
   return (
     <>
-      <Header />
-      <Search />
-      <Grid />
-      <Pagination />
+      <div className="w-full">
+        <Header />
+        <Search />
+        <Grid />
+        <Pagination />
+      </div>
     </>
   );
 };
