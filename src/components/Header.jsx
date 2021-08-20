@@ -14,7 +14,7 @@ const Header = () => {
       </div>
       <div className="grid grid-flow-col">
         <img className="justify-self-start" src={Form} alt="" srcSet="" />
-        <img className="justify-self-center" src={LogoDir} alt="" srcSet="" />
+        <img className="justify-self-center my-auto" src={LogoDir} alt="" srcSet="" />
         <img className="justify-self-end" src={Form2} alt="" srcSet="" />
       </div>
     </>
