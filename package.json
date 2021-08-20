@@ -40,9 +40,12 @@
     ]
   },
   "devDependencies": {
+    "and": "0.0.3",
     "autoprefixer": "^10.3.1",
+    "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1",
+    "restart": "^2.0.0",
     "tailwindcss": "^2.2.7"
   }
 }
