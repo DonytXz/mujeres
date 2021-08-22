@@ -20,7 +20,9 @@ const Card = (props) => {
             <div className="text-white text-xl font-bold">{title}</div>
           </div>
           <img
-            className="absolute -bottom-10 justify-self-end"
+          height="110"
+          width="110"
+            className="absolute -bottom-9 justify-self-end"
             src={imgPath2}
             alt=""
             srcSet=""
