@@ -19,8 +19,8 @@ const Grid = () => {
           place="Color Glossing"
           imgPath1={incHealth}
           imgPath2={imgHealth}
-          subtitle="SALUD"
-          title="Nutrición"
+          subtitle="BELLEZA"
+          title="Estética"
           color="light_violet"
         />
         <Card
@@ -35,8 +35,8 @@ const Grid = () => {
           place="Fonda El Sazón de Julia"
           imgPath1={incHealth}
           imgPath2={imgHealth}
-          subtitle="SALUD"
-          title="Nutrición"
+          subtitle="ALIMENTOS"
+          title="Restaurantes"
           color="light_yellow"
         />
         <Card
@@ -51,8 +51,8 @@ const Grid = () => {
           place="Fonda El Sazón de Julia"
           imgPath1={incHealth}
           imgPath2={imgHealth}
-          subtitle="SALUD"
-          title="Nutrición"
+          subtitle="ALIMENTOS"
+          title="Restaurantes"
           color="light_yellow"
         />
       </div>
