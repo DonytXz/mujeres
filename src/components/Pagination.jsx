@@ -6,12 +6,12 @@ const Pagination = () => {
       <div class="w-2/3 mx-auto  my-4 container mx-auto px-4 flex flex-row justify-between">
         <div className="flex flex-row">
           <select
-            className="w-24 p-2 border-2 rounded-xl text-gray-400 opacity-75"
+            className="w-24 p-2 border-2 border-medium_violet bg-gray-lightes rounded-xl text-gray-400 opacity-75"
             id="cars"
             name="cars"
           >
             <option
-              className="text-gray-400 opacity-75"
+              className="t opacity-75"
               value=""
               disabled
               selected
