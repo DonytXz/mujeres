@@ -11,10 +11,10 @@ module.exports = {
         light_yellow: "#FFC871",
         gray : {
           lightest: "#FAFAFA",
+          veryLight: "#F7F7F7",
           light: "#ACAEAF",
-          dark: "#5B6064",
           medium: "#7B7E80",
-      
+          darkest: "#6E6B7B"
         }
       },
     },
