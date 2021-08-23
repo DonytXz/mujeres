@@ -30,7 +30,7 @@ const Pagination = () => {
           aria-label="Pagination"
         >
           <a
-            class="flex w-10 h-10 mr-1 justify-center items-center rounded-full border border-gray-200 bg-white text-black hover:border-gray-300"
+            class="flex w-10 h-10 mr-1 justify-center items-center rounded-full border border-gray-200 bg_paginationtext-black hover:border-gray-300"
             href="#"
             title="Previous Page"
           >
@@ -45,7 +45,7 @@ const Pagination = () => {
             </svg>
           </a>
           <a
-            class="bg-light_violet hidden md:flex w-10 h-10  justify-center items-center rounded-full border border-transparentk bg-veryLight_violet text-white pointer-events-none"
+            class="bg-light_violet hidden md:flex w-10 h-10  justify-center items-center rounded-full border border-transparentk  text-white pointer-events-none"
             href="#"
             aria-current="page"
             title="Page 3"
@@ -53,35 +53,35 @@ const Pagination = () => {
             1
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-white text-black hover:border-gray-300"
+            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
             href="#"
             title="Page 2"
           >
             2
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-white text-black hover:border-gray-300"
+            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
             href="#"
             title="Page 2"
           >
             3
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-white text-black hover:border-gray-300"
+            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
             href="#"
             title="Page 4"
           >
             4
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-white text-black hover:border-gray-300"
+            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
             href="#"
             title="Page 5"
           >
             5
           </a>
           <a
-            class="flex w-10 h-10 ml-1 justify-center items-center rounded-full  bg-white text-black hover:border-gray-300"
+            class="flex w-10 h-10 ml-1 justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
             href="#"
             title="Next Page"
           >
