@@ -14,10 +14,10 @@ const Card = (props) => {
           <div className="w-2/3 flex flex-row">
             <img height="58" width="58" src={imgPath1} alt="" srcSet="" />
             <div className=" flex flex-col ml-4">
-              <div className="text-white text-base font-bold text-left">
+              <div className="text-white text-base font-bold text-left nutmeg">
                 {subtitle}
               </div>
-              <div className="text-white text-xl font-bold">{title}</div>
+              <div className="text-white text-xl font-bold nutmeg">{title}</div>
             </div>
           </div>
           <div className="w-1/3">
@@ -31,8 +31,8 @@ const Card = (props) => {
             />
           </div>
         </div>
-        <div className="px-4 w-full my-auto">
-          <p className={`text-xl font-bold text-${color}`}>{place}</p>
+        <div className="px-4 w-full my-auto pt-2">
+          <p className={`text-xl font-bold text-${color} nutmeg`}>{place}</p>
         </div>
         <div className="px-4 pb-4 flex flex-col self-end">
           <div className="w-full">

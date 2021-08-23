@@ -1,3 +1,21 @@
 .card_shadow{
     box-shadow: 0px 3px 18px #C2C9CC4D;
 }
+
+@font-face {
+    font-family: "nutmeg";
+    src: url("../fonts/nutmeg/Nutmeg-Regular.ttf") format("woff2");
+  }
+  @font-face {
+    font-family: "monserrat";
+    src: url("../fonts/monserrat/Montserrat-Regular.ttf") format("woff2");
+  }
+  .monserrat{
+      font-family: monserrat;
+  }
+  .nutmeg{
+    font-family: nutmeg;
+}
+*{
+    font-family: monserrat;
+}
