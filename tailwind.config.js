@@ -13,6 +13,7 @@ module.exports = {
           lightest: "#FAFAFA",
           veryLight: "#F7F7F7",
           light: "#ACAEAF",
+          light_medium: "#5B6064",
           medium: "#7B7E80",
           darkest: "#6E6B7B"
         }

@@ -36,25 +36,25 @@ const Card = (props) => {
         </div>
         <div className="px-4 pb-4 flex flex-col self-end">
           <div className="w-full">
-            <p className="text-xs font-semibold my-2 text-gray-700">
+            <p className="text-xs font-semibold my-2 text-gray-700 text-gray-light_medium">
               Gudalajara
             </p>
             <div className="flex flex-col">
               <div className="flex flex-row my-1">
                 <img src={incDirection} alt="" srcSet="" />
-                <p className="ml-4 text-xs font-medium text-gray-500">
+                <p className="ml-4 text-xs font-medium text-gray-medium">
                   Miguel Gordoa #1782 Int 2 Col. Guadalupana Sur
                 </p>
               </div>
               <div className="flex flex-row my-1">
                 <img src={incDirection} alt="" srcSet="" />
-                <p className="ml-4 text-xs font-bold text-gray-500">
+                <p className="ml-4 text-xs font-bold text-gray-medium">
                   (333) 31 27 16 54 / (333) 35 43 52 72
                 </p>
               </div>
               <div className="flex flex-row my-1">
                 <img src={incDirection} alt="" srcSet="" />
-                <p className="ml-4 text-xs font-medium text-gray-500">
+                <p className="ml-4 text-xs font-medium text-gray-medium">
                   nutrikarinagut@gmail.com
                 </p>
               </div>
@@ -64,8 +64,8 @@ const Card = (props) => {
             <div className="flex flex-row mt-2">
               <img src={incFb} alt="" srcset="" />
               <div className="flex flex-col ml-4">
-                <div className="text-xs text-gray-400 font-bold">Facebook</div>
-                <div className="text-xs text-gray-400 font-bold">
+                <div className="text-xs text-gray-400 font-bold text-gray-light">Facebook</div>
+                <div className="text-xs text-gray-400 font-bold text-gray-medium">
                   Nutrikarinagut
                 </div>
               </div>
@@ -73,8 +73,8 @@ const Card = (props) => {
             <div className="flex flex-row mt-2">
               <img src={incInsta} alt="" srcset="" />
               <div className="flex flex-col ml-4">
-                <div className="text-xs text-gray-400 font-bold">Instagram</div>
-                <div className="text-xs text-gray-400 font-bold">
+                <div className="text-xs text-gray-400 font-bold text-gray-light">Instagram</div>
+                <div className="text-xs text-gray-400 font-bold text-gray-medium">
                   Nutrikarinagut
                 </div>
               </div>
