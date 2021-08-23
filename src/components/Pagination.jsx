@@ -30,7 +30,7 @@ const Pagination = () => {
           aria-label="Pagination"
         >
           <a
-            class="flex w-10 h-10 mr-1 justify-center items-center rounded-full border border-gray-200 bg_paginationtext-black hover:border-gray-300"
+            class="flex w-10 h-10 mr-1 justify-center items-center rounded-full border border-gray-200 bg-gray-veryLight shadow-lg text-black hover:border-gray-300"
             href="#"
             title="Previous Page"
           >
@@ -53,28 +53,28 @@ const Pagination = () => {
             1
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
+            class="hidden   md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight shadow-lg text-black hover:border-gray-300"
             href="#"
             title="Page 2"
           >
             2
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
+            class="hidden   md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight shadow-lg text-black hover:border-gray-300"
             href="#"
             title="Page 2"
           >
             3
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
+            class="hidden  md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight shadow-lg text-black hover:border-gray-300"
             href="#"
             title="Page 4"
           >
             4
           </a>
           <a
-            class="hidden bg-gray-veryLight md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight text-black hover:border-gray-300"
+            class="hidden   md:flex w-10 h-10  justify-center items-center rounded-full  bg-gray-veryLight shadow-lg text-black hover:border-gray-300"
             href="#"
             title="Page 5"
           >
